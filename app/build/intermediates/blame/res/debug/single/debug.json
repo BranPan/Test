@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
+        "source": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\asus\\Desktop\\DeviceScanActivity1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
